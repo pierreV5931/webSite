@@ -1,6 +1,10 @@
 title: "Titre"
 theme: jekyll-theme-cayman
 
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
 # Build Settings
 markdown: kramdown
 plugins:
